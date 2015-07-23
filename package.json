@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-history-log",
+  "version": "1.0.0",
+  "description": "add a collection of events to a schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisjohn/mongoose-history-log.git"
+  },
+  "keywords": [
+    "mongoose",
+    "history",
+    "log",
+    "schema",
+    "plugin"
+  ],
+  "author": "John Weis <weis.john@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weisjohn/mongoose-history-log/issues"
+  },
+  "homepage": "https://github.com/weisjohn/mongoose-history-log#readme"
+}
